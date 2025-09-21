@@ -33,26 +33,8 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 <img width="822" height="860" alt="image" src="https://github.com/user-attachments/assets/1fc781ac-b07a-4130-9e6a-c112425fea4a" />
 
 
- dsniff:
-
-
-
-
-
-
-In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
-## OUTPUT:
-
-
-
-
-In Kali issue the following commands:
-sudo dsnifff
-## OUTPUT:
-
-
-
 Invoke the wireshark and examine the various menus  and controls of the tool:
+<img width="1917" height="1050" alt="image" src="https://github.com/user-attachments/assets/68287215-14fd-4aab-ad94-efa03697958f" />
 
 
 ## RESULT:
