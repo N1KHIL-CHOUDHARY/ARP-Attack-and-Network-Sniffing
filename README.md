@@ -36,6 +36,10 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 Invoke the wireshark and examine the various menus  and controls of the tool:
 <img width="1917" height="1050" alt="image" src="https://github.com/user-attachments/assets/68287215-14fd-4aab-ad94-efa03697958f" />
 
+arp poisoning using ethercap 
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/6d22a70d-e770-4ed6-a41d-35747a28c105" />
+
+
 
 ## RESULT:
 The kali linux tools for ARP Attack and Network Sniffing were identified successfully
